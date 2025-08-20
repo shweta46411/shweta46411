@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-image-url.gif" alt="Woman on computer" width="500"/>
+  <img src="https://i.ibb.co/RpGFsBsW/Woman-on-Computer-1.gif" alt="Woman on computer" width="500"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ A seasoned full-stack engineer with over **8 years of experience** building scal
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Kafka](https://img.im.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
 ![Gurobi](https://img.shields.io/badge/Gurobi-DA2C38?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C5?style=for-the-badge&logo=neo4j&logoColor=white)
