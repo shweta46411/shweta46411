@@ -31,12 +31,13 @@ A seasoned full-stack engineer with over **8 years of experience** building scal
 
 ### Featured Projects & Demos
 
-| Project | Tech | Description | Live Demo |
+| Project | Tech | Description | Link |
 |---|---|---|---|
-| **MindPulse AI** | `Streamlit`, `CNN-LSTM`, `TensorFlow` | Provides AI-driven insights into student behavior and wellness for impact-focused education. | [Repo](https://github.com/shweta46411/mindpulse-dashboard) |
-| **Transit Tracker** | `Kafka`, `Streamlit`, `OpenAI` | A real-time SF Muni tracker that streams transit data and uses GPT for intelligent route summaries. | [Live Demo](https://github.com/shweta46411/transit-tracker) |
-| **LogiFlow AI Chatbot** | `OpenAI`, `Gurobi`, `Pandas` | An optimization and reasoning chatbot designed to assist supply chain planners with complex queries. | [Demo](https://github.com/shweta46411/logiflow-chatbot) |
-| **ScreenSense** | `TensorFlow`, `NLP` | Daily/weekly analyzer for student engagement, using NLP to provide actionable insights. | [Repo](https://github.com/shweta46411/screensense-dashboard) |
+| **DecisionFlow Supply Chain Chatbot** | `OpenAI`, `Gurobi`, `Pandas` | An AI-powered chatbot that optimizes supply chain decisions with descriptive, optimization, and what-if queries. | [Repo](https://github.com/shweta46411/decisionflow_supplychain_chatbot) |
+| **Realtime Chat App** | `React`, `Node.js`, `WebSocket` | A 1-to-1 real-time chat application with online user tracking and instant messaging. | [Repo](https://github.com/shweta46411/realtime-chat-app) |
+| **Smart Waste Management** | `Python`, `Streamlit`, `OpenAI` | Nationwide AI-driven waste management system for classification, analytics, and sustainability policy support. | [Repo](https://github.com/shweta46411/Smart-Waste-Management) |
+| **ScreenSense AI** | `TensorFlow`, `NLP`, `Streamlit` | Daily/weekly analyzer for student engagement, using ML + NLP to provide actionable wellness insights. | [Repo](https://github.com/shweta46411/screensenseai) |
+
 
 ---
 
