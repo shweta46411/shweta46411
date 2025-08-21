@@ -40,7 +40,13 @@ A seasoned full-stack engineer with over **8 years of experience** building scal
 
 
 ---
+## 🏅 Certifications
 
+[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![Databricks Generative AI](https://img.shields.io/badge/Databricks-Generative%20AI%20Fundamentals-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/training/certification/generative-ai-fundamentals)
+
+---
 ### Currently Exploring
 
 * **Agentic AI** with LangChain for building autonomous systems.
