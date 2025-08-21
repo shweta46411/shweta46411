@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://i.ibb.co/RpGFsBsW/Woman-on-Computer-1.gif" alt="Woman on computer" width="500"/>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full-stack%20web%20%26%20AI%20developer;React%20%7C%20Node.js%20%7C%20OpenAI%20%7C%20Kafka%20%7C%20Streamlit&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=I'm%20Shweta%20Sharma%20%E2%9C%A8;Full-Stack%20Developer%20%E2%80%94%20React%20%7C%20Next.js%20%7C%20Python;AI%20Engineer%20%E2%80%94%20OpenAI%20%7C%20Streamlit%20%7C%20Kafka&font=Fira%20Code&center=true&vCenter=true&width=700&height=45&color=f75c7e&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
----
-
-### Hi, I’m **Shweta Sharma**
+### About Me
 
 A seasoned full-stack engineer with over **8 years of experience** building scalable web applications at **Accenture**, **Tech Mahindra**, and **Zensar**. I blend my deep software expertise with the power of machine learning, data, and storytelling.
 
