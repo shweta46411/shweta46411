@@ -5,7 +5,7 @@
 
 ### About Me
 
-A seasoned Full-Stack Developer with 8+ years of experience designing and delivering scalable, production-ready web applications across frontend and backend. Skilled in building responsive UIs with React.js and modern JavaScript frameworks, and developing robust APIs and microservices with Python/Node.js. Proven track record at Accenture, Tech Mahindra, and Zensar in creating end-to-end solutions that integrate data, cloud, and emerging AI/ML capabilities
+A seasoned **Full-Stack Developer** with **8+ years of experience** designing and delivering **scalable, production-ready web applications** across frontend and backend, skilled in building **responsive UIs with React.js** and modern JavaScript frameworks, developing **robust APIs and microservices with Python/Node.js**, with a proven track record at **Accenture, Tech Mahindra, and Zensar** creating end-to-end solutions that integrate **data, cloud, and AI/ML capabilities**.
 
 - 🛠️ 8+ years experience in building scalable web apps (React, Node.js, APIs)
 - 🤖 Now specializing in **LLMs, Generative AI, and Real-Time ML**
